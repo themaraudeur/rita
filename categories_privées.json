@@ -1,0 +1,19 @@
+{
+    "categories": [
+      {
+        "label": "PPA",
+        "description": "Ouvrir un ticket pour PPA",
+        "private": true
+      },
+      {
+        "label": "PSY",
+        "description": "Ouvrir un ticket pour PSY",
+        "private": true
+      },
+      {
+        "label": "Kine",
+        "description": "Ouvrir un ticket pour Kine",
+        "private": true
+      }
+    ]
+  }
